@@ -1,0 +1,2 @@
+# Spellit
+Course project
